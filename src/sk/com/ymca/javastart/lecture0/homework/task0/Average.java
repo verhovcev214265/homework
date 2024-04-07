@@ -3,7 +3,7 @@ package sk.com.ymca.javastart.lecture0.homework.task0;
 public class Average {
     /*
     Завдання 2
-Створіть клас Arithmetic Average Average.
+Створіть клас Arithmetic Average.
 Обчисліть середнє арифметичне трьох цілих значень і виведіть його на екран.
 
 - Проаналізуйте для себе:
